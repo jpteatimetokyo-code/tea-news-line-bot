@@ -1,0 +1,49 @@
+name: Daily Tea News to LINE
+
+on:
+  schedule:
+    # 22:00 UTC = 07:00 JST (next day). GitHub Actions cron is always UTC.
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tea-news-daily
+  cancel-in-progress: false
+
+jobs:
+  send-tea-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tea news bot
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+        run: python main.py
+
+      - name: Commit updated sent_articles.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- sent_articles.json; then
+            git add sent_articles.json
+            git commit -m "chore: update sent_articles.json [skip ci]"
+            git push
+          else
+            echo "No changes to sent_articles.json"
+          fi
