@@ -1,5 +1,15 @@
 {
   "sent": {
+    "02079a02836f55ec7dfd0e658476cdf151f88c60e4fccd2eb1df8ce712d56e0c": {
+      "region": "zh-cn",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "京东外卖星巴克抹茶星冰乐销量占比近四成，登顶三大外卖平台第一 - 京报网"
+    },
+    "02c9a3e2bb803e09fed2275ac743be960cc5ba1cb3ce9edf922c0e664802f4c4": {
+      "region": "th",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "นิทรรศการ “Six Landscapes: 6 ภูมิทัศน์แห่งถ้วยชาญี่ปุ่น” - pptvhd36"
+    },
     "06ac798fb68c37ec80f27e9fce88a13f5d26ddfdef75cf28adf52403ca7ca017": {
       "region": "th",
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
@@ -45,6 +55,11 @@
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "Japan: Matcha-Madness - viel Arbeit hinter dem Hype - NDR.de"
     },
+    "14d7a79b06181ed374443820ab551368f5802904afaeaf3078107783248f7efe": {
+      "region": "sg",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "Shake Shack has five regional shakes hiding on the menu in Japan, and here’s how to find them - Japan Today"
+    },
     "17719b049a3bbe16a6576c64eda9be8769f0ce1a4b1de8a4d36cc245a79239f5": {
       "region": "sg",
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
@@ -64,6 +79,11 @@
       "region": "vn",
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
       "title": "Phó Thủ tướng Phạm Thị Thanh Trà tiếp Thống đốc tỉnh Aichi, Nhật Bản - vov.gov.vn"
+    },
+    "262e29f4711b2b8b082be1aeb5020dd69b48cfa5cb2d30e639854e8ddcfd6dee": {
+      "region": "me",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "في تونغرين... شاي الماتشا حاضر في أدق التفاصيل! - صحيفة الشعب اليومية"
     },
     "27a64c4e9d7b651d98cca184facdd3905f7c6f7c0885c660092d7c5fd9fd845b": {
       "region": "zh-cn",
@@ -190,6 +210,11 @@
       "sent_at": "2026-07-18T05:55:05.065458+00:00",
       "title": "nana's green tea Brings Authentic Japanese Matcha to Idaho's Fast-Growing Treasure Valley - PRWeb"
     },
+    "6143e9d1c27653c246c0596f0fb1f4ff77f0a68de4c9efd822efe685dd27c609": {
+      "region": "me",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "ترند صحي جديد.. هل يصبح شاي الهوجيتشا منافساً للماتشا؟ - إرم نيوز"
+    },
     "61d76aa665c30584a16b291af39eb7265687a5672148909e1c3a361cc956b309": {
       "region": "zh-hk",
       "sent_at": "2026-07-18T05:55:05.065458+00:00",
@@ -234,6 +259,11 @@
       "region": "de",
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "Japanische Tee-Zeremonie - hallelife.de"
+    },
+    "77a924b3e534d4b501d605ed72b7d1754eab8218ce04a3d9fa990e50d26c6fea": {
+      "region": "sg",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "10 of the best cafes in Sydney to get your matcha fix this weekend - delicious.com.au"
     },
     "78f87299c57dacf3b36e9325ce51f1451668cf3f4e481b5eb9c26d6a3a273339": {
       "region": "vn",
@@ -294,6 +324,11 @@
       "region": "vn",
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
       "title": "Một không gian tại TP.HCM bất ngờ thu hút loạt sao Việt: Đứng sau là hoa hậu - doanh nhân đình đám - CafeF"
+    },
+    "84a9f1341c3c6f898154fda985a1961564e5afb0e2c4e0e22b8f06886cb5d10a": {
+      "region": "vn",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "Phát hiện một trường hợp nghi mắc viêm não Nhật Bản ở Lâm Đồng - Laodong.vn"
     },
     "855769daa453d2891fc463debf0f9c80ab2a71fd7c685bf3d5d724fdd0747007": {
       "region": "zh-tw",
@@ -410,6 +445,11 @@
       "sent_at": "2026-07-18T05:55:05.065458+00:00",
       "title": "千城百县看中国｜湖北咸丰：小抹茶闯出富民新路 - 新华网"
     },
+    "a4a530d8389788e6a412afc1b09178774831b9ad87d0419967e646fa87550026": {
+      "region": "fr",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "Le matcha, la boisson verte qui séduit - Ouest-France"
+    },
     "a6d022b36c8d094c35718224efd09f9aebc222734248933064e3470385eabf01": {
       "region": "vn",
       "sent_at": "2026-07-18T05:55:05.065458+00:00",
@@ -465,6 +505,11 @@
       "sent_at": "2026-07-18T05:55:05.065458+00:00",
       "title": "抹茶名店八十八良葉舍首店插旗大稻埕- 日報 - 工商時報"
     },
+    "bacdb32247b625c38c1f55cd7337d87094f3122ed00e1ab9d6d82de3abcccd06": {
+      "region": "zh-hk",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "中國抹茶強勢崛起2026抹茶大會在貴州銅仁開幕- 各地動態 - 大公文匯網"
+    },
     "bc8c8bb4b1708231b3094c73a6f206a24f51ff639a77f01aca66b225f07af0f1": {
       "region": "zh-tw",
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
@@ -485,6 +530,11 @@
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "手刷抹茶為何爆紅？京都抹茶名店等3間新店都進駐大稻埕 看懂抹茶經濟升溫原因｜熱門話題 - 網路溫度計DailyView"
     },
+    "c507173fa71af0a643eee52c9b6b9e3f9266e5238c4ba12bc7528135a5331ce0": {
+      "region": "fr",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "7 marques qui vont vraiment vous faire aimer le matcha - ELLE.be"
+    },
     "cb0b7b77921f29a7087c8a79e6f6d3ab2a9196b3878fcaf67e2794e27ac51caa": {
       "region": "us",
       "sent_at": "2026-07-18T05:55:05.065458+00:00",
@@ -499,6 +549,16 @@
       "region": "vn",
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
       "title": "Người mang giấc mơ Matcha từ Nhật Bản về xứ Trà Thái Nguyên - Cổng tri thức Thánh Gióng"
+    },
+    "d19a796e6a34c2745113753c06e9e50824061ab807fa5c45b968258a9be98ca3": {
+      "region": "zh-hk",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "7-Eleven新品｜招牌燕麥奶配搭真實抹茶回甘 OATSIDE抹茶燕麥奶 即睇開箱詳情 - 新假期"
+    },
+    "d428e0084dace8920bc7ba96f523b44f7affd99d41c599197b3b9b68428d6ab3": {
+      "region": "us",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "Three Japanese Tea Articles, 20th Century and Earlier, ca. 1901–2000 - Artnet"
     },
     "d968c7f256b3aeb328380334735898945e159ab500be4181c5c5f1f7aa6c84ec": {
       "region": "us",
@@ -555,6 +615,11 @@
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "Government registers ‘Japanese tea’ under brand protection system - The Japan Times"
     },
+    "e9101f720080b8cdf25cefe7b2b73c3264b7bfc9d086fbd5d047945845ca646b": {
+      "region": "th",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "RavanaBakes & Matcha คาเฟ่ชาเขียวมัทฉะ ย่านจตุจักร - TrueID Food"
+    },
     "eb2d4d0a6f1b2a13c14489867ba4d92377d36b7999aceff704f087849c3c46b1": {
       "region": "zh-tw",
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
@@ -589,6 +654,16 @@
       "region": "zh-tw",
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "夏天喝抹茶6大驚人好處！營養師曝黃金喝法穩血糖抗老化 - 早安健康"
+    },
+    "f68b25dc8f4860c030eef1f6479016050264c118b33e4fb53ac43c7a433f33a8": {
+      "region": "zh-cn",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "新华社消息丨2026抹茶大会在贵州启幕 - 新华网"
+    },
+    "f97fc228ee13fbe15e7dc9c992c07cf39b9d885dda1968b7879e059cbe9c9504": {
+      "region": "zh-cn",
+      "sent_at": "2026-07-20T08:29:57.009854+00:00",
+      "title": "从江南茶园到全球市场，看一杯抹茶的“破圈”之旅 - 搜狐网"
     },
     "fb6e3e2ac59d2af101ae391a16b050d151abefaf429fc58cf7c5221993dc6bf4": {
       "region": "us",
