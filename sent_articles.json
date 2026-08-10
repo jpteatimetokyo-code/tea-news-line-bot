@@ -1,5 +1,10 @@
 {
   "sent": {
+    "01232b3c8b730f18821d608fa4c04fdb12a6024c27ee2fcb6d1685e290ed173e": {
+      "region": "fr",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "Les 5 meilleurs matchas (2026) - Le Journal de Montréal"
+    },
     "01a90607cee1c9d991d6de6d1770c2330d5af664227f332f87b5ea9d0c2c9e9b": {
       "region": "sg",
       "sent_at": "2026-08-07T23:49:34.231563+00:00",
@@ -360,6 +365,11 @@
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "Enjoying Japanese tea in Pahang rainforest - The Star"
     },
+    "32be81ed1ac5b29f7c6d40ded60cd85357324d04b6b3d8f5ee2ddf01d2de0c88": {
+      "region": "zh-cn",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "抹茶宴清新解腻 - 新浪财经"
+    },
     "339b92cbb86e222b282d1cad2d40743ebb1ffd7420e7c162e06aec9ea65f09f5": {
       "region": "us",
       "sent_at": "2026-07-19T07:18:23.530414+00:00",
@@ -394,6 +404,11 @@
       "region": "sg",
       "sent_at": "2026-07-31T08:19:45.541096+00:00",
       "title": "Matcha’s Moment: Can the Tea Industry Sustain One of Its Fastest-Growing Categories? - Tea & Coffee Trade Journal"
+    },
+    "3899d13f72beb706cf164cc6481261e01e263748563167025647e8109f5df43b": {
+      "region": "zh-hk",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "抹茶｜12大益處降膽固醇預防骨質疏鬆慢性病美肌改善認知功能提神效果媲美咖啡附黃金沖泡方法- 東張+ - myTV SUPER"
     },
     "39bfe65e7544896f5775127e8a0622dae0872383a31860d342b5aa075989c932": {
       "region": "sg",
@@ -434,6 +449,11 @@
       "region": "zh-cn",
       "sent_at": "2026-07-15T15:03:22.314453+00:00",
       "title": "贵州抹茶，不简单 - 搜狐网"
+    },
+    "3f548b37f57cd27875814db34cf2b35c27c2fe801d83671a5cdca128c5a4f4a2": {
+      "region": "zh-cn",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "2026梵净抹茶全产业链产销交流会在铜仁举行 - 搜狐网"
     },
     "3fbee3fd62b764af06c0a4ad2fd1557b96e24463c1548002f65d3f5132b65ce1": {
       "region": "zh-cn",
@@ -509,6 +529,11 @@
       "region": "us",
       "sent_at": "2026-07-28T07:48:17.514939+00:00",
       "title": "Matcha-Infused Protein Supplements - Trend Hunter"
+    },
+    "48200023d537d1dd411230ebf04e8038b6769c0f5023ce82df40a3d13c4d722e": {
+      "region": "us",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "Japan’s No. 1 Matcha Chain Is Finally in the US — Start With These 7 Orders - Food & Wine"
     },
     "48d3dbcec23a0916753e2cfab299fb12514c9d82cf588dfa162ef7ba46e878f3": {
       "region": "fr",
@@ -1230,6 +1255,16 @@
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
       "title": "Xuất khẩu trà xanh Nhật Bản tăng vọt nhờ một cơn sốt - Báo Thế giới và Việt Nam"
     },
+    "abaf8cfcbd8b3b48978dc5bf680afe0b9fff4342e178f69aaf1de7ff9589373b": {
+      "region": "zh-cn",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "连续58年日本茶叶第一，年销17.6亿，伊藤园如何成为全球绿茶之王？ - 创业邦"
+    },
+    "ac1e18b11c447cf1898d4f2a74829ddb652841145c622ce646fb39a01d733f19": {
+      "region": "vn",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "MXH Nhật Bản phát sốt vì chế độ ăn kiêng với 2 loại nước người Việt cực mê, 1 bác sĩ trực tiếp trải nghiệm giảm được 6,2kg trong 1 tháng - Kenh14.vn"
+    },
     "ac33eaba4ef21c1be6005cb8d4fc76870ab6b4e4ede47f47bac45f10c436d8ee": {
       "region": "vn",
       "sent_at": "2026-07-26T07:46:42.424949+00:00",
@@ -1424,6 +1459,11 @@
       "region": "vn",
       "sent_at": "2026-07-30T07:42:08.278697+00:00",
       "title": "Cơn sốt matcha toàn cầu đẩy Nhật Bản vào cảnh khan hiếm - VOH"
+    },
+    "c9e732a91924f91e028248f8068bb1bf5ff6da330c7a3f896041f20d185a6293": {
+      "region": "fr",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "Boire du thé vert japonais réduirait de 40% le risque de cancer du foie, selon une étude sur 42 000 personnes - FuransuJapon"
     },
     "ca7dcd559285bb99dcb1d0e0bcbc144a975b75da2f9dc0fae0dcfa809e34cc89": {
       "region": "zh-tw",
@@ -1745,6 +1785,11 @@
       "sent_at": "2026-07-16T06:38:08.436942+00:00",
       "title": "นิทรรศการ “Six Landscapes: 6 ภูมิทัศน์แห่งถ้วยชาญี่ปุ่น” รวมที่สุดแห่งถ้วยชาทำมือชิ้นเดียวในโลกจาก 6 เตาเผาโบราณยุคประวัติศาสตร์ - Marketing Oops!"
     },
+    "ed7aa8c4f99eafce85478f1d6e924948da469198728a22e6a419ed91d91d630c": {
+      "region": "sg",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "Matcha is everywhere – but what does Japan think? - Perfect Daily Grind"
+    },
     "ede5ada61f2f61a85165864feafb4cdb30fe53356f1d2ec2af59d1335f0eba14": {
       "region": "vn",
       "sent_at": "2026-08-02T07:40:40.270098+00:00",
@@ -1824,6 +1869,11 @@
       "region": "sg",
       "sent_at": "2026-08-06T07:49:42.336754+00:00",
       "title": "Chefs Are Using This Smoky Green Tea in Ice Cream, Cheesecake, and More - Food & Wine"
+    },
+    "f94130a95517d101fcfc4887026f460beddbd7c330c95eae3eecaa3d608e5dc0": {
+      "region": "zh-tw",
+      "sent_at": "2026-08-10T23:53:41.096852+00:00",
+      "title": "山友傻眼！宜蘭抹茶山驚傳「封山」禁止進入　聯外山路崩塌搶修至11月 - 三立新聞"
     },
     "f97fc228ee13fbe15e7dc9c992c07cf39b9d885dda1968b7879e059cbe9c9504": {
       "region": "zh-cn",
