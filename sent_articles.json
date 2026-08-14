@@ -1,5 +1,10 @@
 {
   "sent": {
+    "002d645718fb9fef064ed04e5da4d1dbf3f4db9ba530889fa0c5a26d15876d5c": {
+      "region": "de",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "Japan: Matcha Madness - dw.com"
+    },
     "01232b3c8b730f18821d608fa4c04fdb12a6024c27ee2fcb6d1685e290ed173e": {
       "region": "fr",
       "sent_at": "2026-08-10T23:53:41.096852+00:00",
@@ -24,6 +29,11 @@
       "region": "th",
       "sent_at": "2026-07-20T08:29:57.009854+00:00",
       "title": "นิทรรศการ “Six Landscapes: 6 ภูมิทัศน์แห่งถ้วยชาญี่ปุ่น” - pptvhd36"
+    },
+    "04190c64bb8789d38e8f98dbd5c7d033412f5f9995dc74ba14480e8fd405b8fc": {
+      "region": "zh-tw",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "【大稻埕喫茶地圖】3 間必訪茶專門店！台灣磨茶、京都手刷抹茶、人氣抹茶甜點一次看 - 上報Up Media"
     },
     "04f43a8ad4e3b276f966e3babd94d5b1ab4789f59f00f9b0fb670e6482d746a7": {
       "region": "sg",
@@ -69,6 +79,11 @@
       "region": "us",
       "sent_at": "2026-08-09T23:05:02.262522+00:00",
       "title": "Oakland’s July openings include new cafes, duo of Japanese options, and two restaurant relocations - The Oaklandside"
+    },
+    "0810712dd44b0711ca9061a30c59f7533f21da9252e29d98f59206bd5093057e": {
+      "region": "zh-cn",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "中国加速抹茶产业发展 盼其成为促进地方经济新动力 - 8world"
     },
     "08c067840045b01a72020ae46ac6c2220663c5878712c1ffb42196d1331f5b5e": {
       "region": "sg",
@@ -129,6 +144,11 @@
       "region": "sg",
       "sent_at": "2026-08-12T00:07:33.978678+00:00",
       "title": "New Surry Hills Spot Tokyo Handa Proves Good Tea Comes to Those Who Wait - broadsheet.com.au"
+    },
+    "0e1826425023c0a53ebe99b8b185d6c4fd70bb08238d791f64eff33a18d8b38f": {
+      "region": "zh-tw",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "影音／Z世代的「綠色小確幸」！ 全球掀起抹茶熱 日本卻有茶葉荒 - TVBS新聞網"
     },
     "0e686bf85bd19b4a113f448388878ef5ac800eb15a20d66d06c73b01e12eba22": {
       "region": "vn",
@@ -624,6 +644,11 @@
       "region": "us",
       "sent_at": "2026-07-27T10:55:56.353767+00:00",
       "title": "Fayn AllWhey Protein Matcha now available in a Mango flavor - Stack3d"
+    },
+    "50c26ea600e355fd2186ed12d60e7340d103593cbb6955f27eb5146839649800": {
+      "region": "zh-hk",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "日本茶專家推介四款健康長壽茶 麥茶助眠玄米茶降血糖 - 東張+ - myTV SUPER"
     },
     "50f830603fee73679a2a530b421d3947cee48dfc3f0e9f0ccaaa7640b6b2839a": {
       "region": "sg",
@@ -1320,6 +1345,11 @@
       "sent_at": "2026-08-12T00:07:33.978678+00:00",
       "title": "抹茶宴飘香小镇 茶香美食引客来 - 搜狐网"
     },
+    "a98c17d16a74e829f9f18ea679a0ba9efca2927f58c6f3f9cb037463a6475c12": {
+      "region": "zh-hk",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "半島酒店$48抹茶拿鐵爆紅！免費轉豆奶 暫時缺貨要8月中先有 - 新假期周刊"
+    },
     "a9b8175365e51cd6c52973307ed67118d03492172f2860b344e16043b95ddfe7": {
       "region": "zh-cn",
       "sent_at": "2026-07-23T07:44:44.038961+00:00",
@@ -1354,6 +1384,11 @@
       "region": "vn",
       "sent_at": "2026-07-26T07:46:42.424949+00:00",
       "title": "Ngôi làng nhỏ thu hút khách du lịch nhờ matcha - KILALA"
+    },
+    "acd0c347f4ab987552c55dba3f13c3a7558d9f3bdfdf3afd066cd4fea6f2f1c6": {
+      "region": "fr",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "Japonaise, elle propose de faire découvrir sa culture du thé lors d’ateliers à Laval - Ouest-France"
     },
     "acef364131a33ebb96ed75e2c925776b3c1a8a45da3063e1f45732e72ba68fc2": {
       "region": "zh-tw",
@@ -1554,6 +1589,11 @@
       "region": "de",
       "sent_at": "2026-07-26T07:46:42.424949+00:00",
       "title": "Einstieg in die Teekultur mit dem Buch Teatrip Japan von Christian Beck und Stefan Braun - FAZ"
+    },
+    "c5d8b80e272b2b2d21ffdd27df05dab615f404a4b926161e26ce3cbcda015b4e": {
+      "region": "zh-cn",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "中国掀起抹茶热 绿色产业成地方经济新引擎 - 8world"
     },
     "c6d5844a5cabe653f9f5ac28318401cc61cf08864b9ad80621dca540959485bf": {
       "region": "fr",
@@ -2014,6 +2054,11 @@
       "region": "sg",
       "sent_at": "2026-08-06T07:49:42.336754+00:00",
       "title": "Chefs Are Using This Smoky Green Tea in Ice Cream, Cheesecake, and More - Food & Wine"
+    },
+    "f8051e4fe58898ee7881e5251a0754326a4906bd043a531710724c50d9dc4d3a": {
+      "region": "zh-cn",
+      "sent_at": "2026-08-14T00:08:34.634882+00:00",
+      "title": "咖啡外卖推荐：幸运咖雪球拿铁2口味实测，平价甜品级怎么选？+FAQ - 新浪网"
     },
     "f94130a95517d101fcfc4887026f460beddbd7c330c95eae3eecaa3d608e5dc0": {
       "region": "zh-tw",
